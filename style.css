@@ -1,0 +1,74 @@
+h1  {
+	color:#1b4491;
+}
+
+header p {
+	font-size: 20px;
+	color: #1b4491;
+}
+
+header h2 {
+	font-size: 24px;
+	color:#3388BB;
+	text-transform: : uppercase;
+	border-bottom: 3px solid #3388BB;
+	text-align: center;   
+}
+
+h2.nobarre {
+	border-bottom:none;
+
+}
+table.alignleft{
+	text-align: left;
+}
+
+h3 {
+	width:180px;
+	text-align: right;
+	float:left;
+	padding:0;
+	clear:both;
+	font-size: 13px;
+	color:#7b90b5;
+}
+
+img.portrait {
+	width:125px;
+	height:125px;
+}
+
+a[href^="tel:"] {
+	text-decoration: none;
+}
+
+div{
+	vertical-align: middle;
+}
+
+aside{ 
+	text-align: center;    
+}
+
+a{ 
+	text-align: center;   
+}
+
+section{ 
+	text-align: center;   
+}
+
+article{ 
+	text-align: center;   
+}
+
+table{ 
+	display : inline-block;
+	color: #2c3e50;
+}
+
+body{
+	border-width: 20px;
+	border-style : solid ;
+	padding:0 10px;
+}
